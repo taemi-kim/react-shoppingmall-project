@@ -31,7 +31,7 @@ function App() {
           <p>상품정보</p>
           </Col>
         <Col sm={4}>
-          <img src="/sambada.jpeg" width="80%" />
+          <img src="/sambada.jpeg" width="80%" /> 
             <h4>상품명</h4>
             <p>상품정보</p>
         </Col>
@@ -43,7 +43,7 @@ function App() {
             <h4>상품명</h4>
             <p>상품정보</p></Col>
         <Col sm>
-          <img src="https://codingapple1.github.io/shop/shoes1.jpg" width="80%" />
+          <img src="https://codingapple1.github.io/shop/shoes1.jpg" width="100%" />
           <h4>상품명</h4>
           <p>상품정보</p>
         </Col>
